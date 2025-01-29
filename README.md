@@ -73,4 +73,4 @@ PARAM: first_prefill_source=
 
 ---
 
-**Disclaimer:** O autor deste projeto não se responsabiliza por qualquer uso indevido ou atividade ilegal realizada com este material.
+**Disclaimer:** A autora deste projeto não se responsabiliza por qualquer uso indevido ou atividade ilegal realizada com este material.
